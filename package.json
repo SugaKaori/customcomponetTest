@@ -1,0 +1,8 @@
+{
+  "name": "customelementTest",
+  "version": "1.0.0",
+  "description": "customeElementの検証",
+  "main": "index.js",
+  "author": "sugawara-kaori <sugawara-kaori@dmm.com>",
+  "license": "MIT"
+}
